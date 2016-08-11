@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
   "authors": [ "zxm" ],
-  "description": "zxm.AspNetCore.MailKit is an extensions to use zxm.MailKit within AspNetCore.",
-  "title": "zxm.AspNetCore.MailKit",
+  "description": "zxm.MailKit.Extensions.AspNetCore is an extensions to use zxm.MailKit within AspNetCore.",
+  "title": "zxm.MailKit.Extensions.AspNetCore",
   "copyright": "2016 ? zxm",
   "packOptions": {
     "owners": [ "zxm" ],

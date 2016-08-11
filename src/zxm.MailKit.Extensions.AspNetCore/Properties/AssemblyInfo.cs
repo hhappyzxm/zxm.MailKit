@@ -7,7 +7,7 @@ using System.Runtime.InteropServices;
 // associated with an assembly.
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("zxm.AspNetCore.MailKit")]
+[assembly: AssemblyProduct("zxm.MailKit.Extensions.AspNetCore")]
 [assembly: AssemblyTrademark("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible
@@ -16,4 +16,4 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("4463ba61-dcad-4035-8466-1b53cf44f2e2")]
+[assembly: Guid("4dab7e22-d4e7-49a1-b061-b3e83ed40019")]

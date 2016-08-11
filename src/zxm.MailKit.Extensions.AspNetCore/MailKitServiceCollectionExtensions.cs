@@ -2,7 +2,7 @@
 using Microsoft.Extensions.DependencyInjection;
 using zxm.MailKit.Abstractions;
 
-namespace zxm.AspNetCore.MailKit
+namespace zxm.MailKit.Extensions.AspNetCore
 {
     public static class MailKitServiceCollectionExtensions
     {

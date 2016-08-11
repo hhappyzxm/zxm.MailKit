@@ -7,8 +7,8 @@
 
   <Import Project="$(VSToolsPath)\DotNet\Microsoft.DotNet.Props" Condition="'$(VSToolsPath)' != ''" />
   <PropertyGroup Label="Globals">
-    <ProjectGuid>4463ba61-dcad-4035-8466-1b53cf44f2e2</ProjectGuid>
-    <RootNamespace>zxm.AspNetCore.MailKit</RootNamespace>
+    <ProjectGuid>4dab7e22-d4e7-49a1-b061-b3e83ed40019</ProjectGuid>
+    <RootNamespace>zxm.MailKit.Extensions.AspNetCore</RootNamespace>
     <BaseIntermediateOutputPath Condition="'$(BaseIntermediateOutputPath)'=='' ">.\obj</BaseIntermediateOutputPath>
     <OutputPath Condition="'$(OutputPath)'=='' ">.\bin\</OutputPath>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
