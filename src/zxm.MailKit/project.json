@@ -1,0 +1,28 @@
+﻿{
+  "version": "1.0.4",
+  "authors": [ "zxm" ],
+  "description": "zxm.MailKit is an extensions to send email.",
+  "title": "zxm.MailKit",
+  "copyright": "2016 © zxm",
+  "packOptions": {
+    "owners": [ "zxm" ],
+    "licenseUrl": "http://www.apache.org/licenses/LICENSE-2.0",
+    "projectUrl": "https://github.com/hhappyzxm/zxm.MailKit",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/hhappyzxm/zxm.MailKit"
+    },
+    "tags": [ "email" ]
+  },
+
+  "dependencies": {
+    "MailKit": "1.4.1",
+    "zxm.MailKit.Abstractions": {"target": "project"}
+  },
+
+  "frameworks": {
+    "netstandard1.3": {
+    },
+    "net45": {}
+  }
+}

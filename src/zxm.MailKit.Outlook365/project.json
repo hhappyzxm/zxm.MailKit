@@ -1,0 +1,27 @@
+﻿{
+  "version": "1.0.0",
+  "authors": [ "zxm" ],
+  "description": "zxm.MailKit.Outlook365 is an extensions to send email with outlok365.",
+  "title": "zxm.MailKit.Outlook365",
+  "copyright": "2016 © zxm",
+  "packOptions": {
+    "owners": [ "zxm" ],
+    "licenseUrl": "http://www.apache.org/licenses/LICENSE-2.0",
+    "projectUrl": "https://github.com/hhappyzxm/zxm.MailKit",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/hhappyzxm/zxm.MailKit"
+    },
+    "tags": [ "email, outlook365" ]
+  },
+
+  "dependencies": {
+    "zxm.MailKit": { "target": "project" }
+  },
+
+  "frameworks": {
+    "netstandard1.3": {
+    },
+    "net45": {}
+  }
+}

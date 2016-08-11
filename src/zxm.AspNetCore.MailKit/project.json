@@ -1,0 +1,30 @@
+{
+  "version": "1.0.0",
+  "authors": [ "zxm" ],
+  "description": "zxm.AspNetCore.MailKit is an extensions to use zxm.MailKit within AspNetCore.",
+  "title": "zxm.AspNetCore.MailKit",
+  "copyright": "2016 ? zxm",
+  "packOptions": {
+    "owners": [ "zxm" ],
+    "licenseUrl": "http://www.apache.org/licenses/LICENSE-2.0",
+    "projectUrl": "https://github.com/hhappyzxm/zxm.MailKit",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/hhappyzxm/zxm.MailKit"
+    },
+    "tags": [ "email" ]
+  },
+
+  "dependencies": {
+    "Microsoft.AspNetCore.Http.Abstractions": "1.0.0",
+    "Microsoft.Extensions.DependencyInjection.Abstractions": "1.0.0",
+    "zxm.MailKit.Abstractions": { "target": "project" }
+  },
+
+  "frameworks": {
+    "netstandard1.3": {
+      "dependencies": {}
+    },
+    "net451": {}
+  }
+}
